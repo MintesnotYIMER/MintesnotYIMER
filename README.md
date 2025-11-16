@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mintesnot YIMER  
-**IT Support & Application Support | Junior Data & Business Analyst (MIAGE)**  
+**IT Support & Application Support | Data & Business Analyst (MIAGE)**  
 *Toulouse, France*
 
 I’m an IT professional with **5+ years of experience** in technical support and system administration in the banking sector, currently pursuing a **Master MIAGE 2IS** to expand into **Data Analysis** and **Business Analysis**.
-
 My profile bridges **technical operations, data insights, and business understanding**.  
 I enjoy solving problems, analyzing processes, and building clear, data-driven dashboards and reports.
 
@@ -16,7 +15,6 @@ I enjoy solving problems, analyzing processes, and building clear, data-driven d
 - Power BI, Excel  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Git & GitHub  
-- WordPress (Elementor, WPBakery)
 
 ### 📘 Concepts
 - Data Cleaning & Visualization  
@@ -49,7 +47,7 @@ Classification model using Python, Scikit-learn, Pandas.
 
 ### 🔄 3. Business Process Intelligence — Flood Crisis Management  
 Process modeling, event log analysis, KPI extraction.  
-➡ Repository: *(coming soon)*
+➡ Repository: */business-process-intelligence-flood-management*
 
 ### 🧩 4. Crossword Solver — CSP using OR-Tools  
 Constraint satisfaction puzzle solver in Python.  
@@ -67,5 +65,4 @@ Constraint satisfaction puzzle solver in Python.
 
 ## 📫 Contact  
 📧 **mintesnot.yimer@ut-capitole.fr**  
-🌍 **LinkedIn:** *www.linkedin.com/in/
-mintesnotnigusu*  
+🌍 **LinkedIn:** *www.linkedin.com/in/mintesnotnigusu*  
