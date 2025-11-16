@@ -39,11 +39,12 @@ I enjoy solving problems, analyzing processes, and building clear, data-driven d
 
 ### 📊 1. Air Quality Analysis (2013–2023) — Python + Power BI  
 Data cleaning, transformation, time-series trends, dashboards.  
-➡ Repository: *(coming soon)*
+➡ **Repository:** https://github.com/MintesnotYIMER/usa-air-quality-analysis
+
 
 ### 🧠 2. Obesity Prediction — Machine Learning  
 Classification model using Python, Scikit-learn, Pandas.  
-➡ Repository: *(coming soon)*
+➡ **Repository:** https://github.com/MintesnotYIMER/obesity-prediction-ml
 
 ### 🔄 3. Business Process Intelligence — Flood Crisis Management  
 Process modeling, event log analysis, KPI extraction.  
@@ -52,7 +53,7 @@ Process modeling, event log analysis, KPI extraction.
 
 ### 🧩 4. Crossword Solver — CSP using OR-Tools  
 Constraint satisfaction puzzle solver in Python.  
-➡ Repository: *(coming soon)*
+➡ **Repository:** https://github.com/MintesnotYIMER/crossword-solver-ai
 
 ---
 
