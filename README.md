@@ -47,7 +47,7 @@ Classification model using Python, Scikit-learn, Pandas.
 
 ### 🔄 3. Business Process Intelligence — Flood Crisis Management  
 Process modeling, event log analysis, KPI extraction.  
-➡ [Repository] (https://github.com/MintesnotYIMER/business-process-intelligence-flood-management)
+➡ **Repository:** https://github.com/MintesnotYIMER/business-process-intelligence-flood-management
 
 
 ### 🧩 4. Crossword Solver — CSP using OR-Tools  
