@@ -22,7 +22,7 @@ I enjoy solving problems, analyzing processes, and building clear, data-driven d
 - Process Mining / Business Process Intelligence (BPI)  
 - KPI Reporting & Dashboards  
 - Data Modelling (Star Schema)  
-- Machine Learning (Basic)  
+- Machine Learning   
 
 ### 🧩 IT Support & Application Support
 - Active Directory  
