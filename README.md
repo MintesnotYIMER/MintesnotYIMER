@@ -9,7 +9,7 @@ understanding why a process fails, measuring it with data, then building the too
 fixes it.
 
 🔗 **Portfolio: [mintesnotyimer.github.io](https://mintesnotyimer.github.io)** ·
-📫 mintesnot.yimer@ut-capitole.fr ·
+📫 yimermintesnot@gmail.com ·
 💼 [LinkedIn](https://www.linkedin.com/in/mintesnotnigusu/)
 
 Open to roles and internships in **application support, data analysis and business analysis**.
